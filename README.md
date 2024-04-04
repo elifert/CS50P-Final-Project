@@ -10,7 +10,7 @@ Harvard CS50’s Introduction to Programming with Python — CS50P Final Project
 
 
 # Agriculture Information System
- For video demo click [here!](https://google.com)
+ For video demo click [here!](https://youtu.be/g5Utf0XnGHs)
 >[!IMPORTANT]
 >The inspiration behind this program stems from my father‘s agricultural expertise and his dedication to his work. The insights and information provided within this project are largely influenced by his knowledge and experience in the field. For the best results, it is **highly** advised to consult with your local agricultural authorities.
 
