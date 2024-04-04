@@ -253,7 +253,7 @@ def return_crop(climate):
 
 
 def forecast(city, country):
-    api_key = "YOUR_API_KEY" # Insert your OpenWeather API
+    api_key = "YOUR_API_KEY" # Insert your OpenWeatherMap API key
     base_url = "http://api.openweathermap.org/data/2.5/weather?q="
     url = base_url + city + "," + country + "&appid=" + api_key
     response = requests.get(url, params={"units": "metric"})
